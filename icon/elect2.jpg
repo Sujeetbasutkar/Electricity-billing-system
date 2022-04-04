@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="expires" content="0">
+<link rel="preload" href="/templates/dark/fonts/ionicons.woff2?v=4.4.5" as="font" type="font/woff2" crossorigin>
+<link rel="shortcut icon" href="/templates/dark/images/favicon.png" />
+<link href="/templates/dark/style/styles.css?v32" type="text/css" rel="stylesheet" />
+<link href="/templates/dark/style/engine.css" type="text/css" rel="stylesheet" />
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+<script src="/templates/dark/js/blayzy.js" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+<link rel="stylesheet" href="/templates/dark/style/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+<meta name="theme-color" content="#111">
+<meta name="yandex-verification" content="c5ddfee5d6963906" />
+<meta name="p:domain_verify" content="67f5eed73fed855926dee213a16eae70" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9149369225344758" crossorigin="anonymous" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+<meta charset="utf-8">
+<title>Wallpaper ID: 10119 / panels, lattice, light, glare, bright, 4k</title>
+<meta name="description" content="Wallpaper for theme: panels, lattice, light, glare, bright, 4k background. Resolution: 3840x2160 Size: 1063 kb Wallpaper uploaded by: LESA Date: 2020-05-1">
+<meta name="keywords" content="panels, lattice, light, glare, bright, 4k">
+<meta property="og:site_name" content="HD Desktop Wallpapers">
+<meta property="og:type" content="article">
+<meta property="og:title" content="panels, lattice, light, glare, bright, 4k">
+<meta property="og:url" content="https://wallpapercrafter.com/10119-panels-lattice-light-glare-bright-4k.html">
+<meta property="og:description" content="Wallpaper for theme: panels, lattice, light, glare, bright, 4k background. Resolution: 3840x2160 Size: 1063 kb Wallpaper uploaded by: LESA Date: 2020-05-1">
+<link rel="search" type="application/opensearchdescription+xml" href="https://wallpapercrafter.com/index.php?do=opensearch" title="HD Desktop Wallpapers">
+<link rel="canonical" href="https://wallpapercrafter.com/10119-panels-lattice-light-glare-bright-4k.html">
+<link rel="alternate" type="application/rss+xml" title="HD Desktop Wallpapers" href="https://wallpapercrafter.com/rss.xml">
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">
+!function(e){var t=function(u,D,f){"use strict";var k,H;if(function(){var e;var t={lazyClass:"lazyload",loadedClass:"lazyloaded",loadingClass:"lazyloading",preloadClass:"lazypreload",errorClass:"lazyerror",autosizesClass:"lazyautosizes",fastLoadedClass:"ls-is-cached",iframeLoadMode:0,srcAttr:"data-src",srcsetAttr:"data-srcset",sizesAttr:"data-sizes",minSize:40,customMedia:{},init:true,expFactor:.5,hFac:.8,loadMode:1,loadHidden:false,ricTimeout:0,throttleDelay:125};H=u.lazySizesConfig||u.lazysizesConfig||{};for(e in t){if(!(e in H)){H[e]=t[e]}}}(),!D||!D.getElementsByClassName){return{init:function(){},cfg:H,noSupport:true}}var O=D.documentElement,i=u.HTMLPictureElement,P="addEventListener",$="getAttribute",q=u[P].bind(u),I=u.setTimeout,U=u.requestAnimationFrame||I,o=u.requestIdleCallback,j=/^picture$/i,r=["load","error","lazyincluded","_lazyloaded"],a={},G=Array.prototype.forEach,J=function(e,t){if(!a[t]){a[t]=new RegExp("(\\s|^)"+t+"(\\s|$)")}return a[t].test(e[$]("class")||"")&&a[t]},K=function(e,t){if(!J(e,t)){e.setAttribute("class",(e[$]("class")||"").trim()+" "+t)}},Q=function(e,t){var a;if(a=J(e,t)){e.setAttribute("class",(e[$]("class")||"").replace(a," "))}},V=function(t,a,e){var i=e?P:"removeEventListener";if(e){V(t,a)}r.forEach(function(e){t[i](e,a)})},X=function(e,t,a,i,r){var n=D.createEvent("Event");if(!a){a={}}a.instance=k;n.initEvent(t,!i,!r);n.detail=a;e.dispatchEvent(n);return n},Y=function(e,t){var a;if(!i&&(a=u.picturefill||H.pf)){if(t&&t.src&&!e[$]("srcset")){e.setAttribute("srcset",t.src)}a({reevaluate:true,elements:[e]})}else if(t&&t.src){e.src=t.src}},Z=function(e,t){return(getComputedStyle(e,null)||{})[t]},s=function(e,t,a){a=a||e.offsetWidth;while(a<H.minSize&&t&&!e._lazysizesWidth){a=t.offsetWidth;t=t.parentNode}return a},ee=function(){var a,i;var t=[];var r=[];var n=t;var s=function(){var e=n;n=t.length?r:t;a=true;i=false;while(e.length){e.shift()()}a=false};var e=function(e,t){if(a&&!t){e.apply(this,arguments)}else{n.push(e);if(!i){i=true;(D.hidden?I:U)(s)}}};e._lsFlush=s;return e}(),te=function(a,e){return e?function(){ee(a)}:function(){var e=this;var t=arguments;ee(function(){a.apply(e,t)})}},ae=function(e){var a;var i=0;var r=H.throttleDelay;var n=H.ricTimeout;var t=function(){a=false;i=f.now();e()};var s=o&&n>49?function(){o(t,{timeout:n});if(n!==H.ricTimeout){n=H.ricTimeout}}:te(function(){I(t)},true);return function(e){var t;if(e=e===true){n=33}if(a){return}a=true;t=r-(f.now()-i);if(t<0){t=0}if(e||t<9){s()}else{I(s,t)}}},ie=function(e){var t,a;var i=99;var r=function(){t=null;e()};var n=function(){var e=f.now()-a;if(e<i){I(n,i-e)}else{(o||r)(r)}};return function(){a=f.now();if(!t){t=I(n,i)}}},e=function(){var v,m,c,h,e;var y,z,g,p,C,b,A;var n=/^img$/i;var d=/^iframe$/i;var E="onscroll"in u&&!/(gle|ing)bot/.test(navigator.userAgent);var _=0;var w=0;var M=0;var N=-1;var L=function(e){M--;if(!e||M<0||!e.target){M=0}};var x=function(e){if(A==null){A=Z(D.body,"visibility")=="hidden"}return A||!(Z(e.parentNode,"visibility")=="hidden"&&Z(e,"visibility")=="hidden")};var W=function(e,t){var a;var i=e;var r=x(e);g-=t;b+=t;p-=t;C+=t;while(r&&(i=i.offsetParent)&&i!=D.body&&i!=O){r=(Z(i,"opacity")||1)>0;if(r&&Z(i,"overflow")!="visible"){a=i.getBoundingClientRect();r=C>a.left&&p<a.right&&b>a.top-1&&g<a.bottom+1}}return r};var t=function(){var e,t,a,i,r,n,s,o,l,u,f,c;var d=k.elements;if((h=H.loadMode)&&M<8&&(e=d.length)){t=0;N++;for(;t<e;t++){if(!d[t]||d[t]._lazyRace){continue}if(!E||k.prematureUnveil&&k.prematureUnveil(d[t])){R(d[t]);continue}if(!(o=d[t][$]("data-expand"))||!(n=o*1)){n=w}if(!u){u=!H.expand||H.expand<1?O.clientHeight>500&&O.clientWidth>500?500:370:H.expand;k._defEx=u;f=u*H.expFactor;c=H.hFac;A=null;if(w<f&&M<1&&N>2&&h>2&&!D.hidden){w=f;N=0}else if(h>1&&N>1&&M<6){w=u}else{w=_}}if(l!==n){y=innerWidth+n*c;z=innerHeight+n;s=n*-1;l=n}a=d[t].getBoundingClientRect();if((b=a.bottom)>=s&&(g=a.top)<=z&&(C=a.right)>=s*c&&(p=a.left)<=y&&(b||C||p||g)&&(H.loadHidden||x(d[t]))&&(m&&M<3&&!o&&(h<3||N<4)||W(d[t],n))){R(d[t]);r=true;if(M>9){break}}else if(!r&&m&&!i&&M<4&&N<4&&h>2&&(v[0]||H.preloadAfterLoad)&&(v[0]||!o&&(b||C||p||g||d[t][$](H.sizesAttr)!="auto"))){i=v[0]||d[t]}}if(i&&!r){R(i)}}};var a=ae(t);var S=function(e){var t=e.target;if(t._lazyCache){delete t._lazyCache;return}L(e);K(t,H.loadedClass);Q(t,H.loadingClass);V(t,B);X(t,"lazyloaded")};var i=te(S);var B=function(e){i({target:e.target})};var T=function(e,t){var a=e.getAttribute("data-load-mode")||H.iframeLoadMode;if(a==0){e.contentWindow.location.replace(t)}else if(a==1){e.src=t}};var F=function(e){var t;var a=e[$](H.srcsetAttr);if(t=H.customMedia[e[$]("data-media")||e[$]("media")]){e.setAttribute("media",t)}if(a){e.setAttribute("srcset",a)}};var s=te(function(t,e,a,i,r){var n,s,o,l,u,f;if(!(u=X(t,"lazybeforeunveil",e)).defaultPrevented){if(i){if(a){K(t,H.autosizesClass)}else{t.setAttribute("sizes",i)}}s=t[$](H.srcsetAttr);n=t[$](H.srcAttr);if(r){o=t.parentNode;l=o&&j.test(o.nodeName||"")}f=e.firesLoad||"src"in t&&(s||n||l);u={target:t};K(t,H.loadingClass);if(f){clearTimeout(c);c=I(L,2500);V(t,B,true)}if(l){G.call(o.getElementsByTagName("source"),F)}if(s){t.setAttribute("srcset",s)}else if(n&&!l){if(d.test(t.nodeName)){T(t,n)}else{t.src=n}}if(r&&(s||l)){Y(t,{src:n})}}if(t._lazyRace){delete t._lazyRace}Q(t,H.lazyClass);ee(function(){var e=t.complete&&t.naturalWidth>1;if(!f||e){if(e){K(t,H.fastLoadedClass)}S(u);t._lazyCache=true;I(function(){if("_lazyCache"in t){delete t._lazyCache}},9)}if(t.loading=="lazy"){M--}},true)});var R=function(e){if(e._lazyRace){return}var t;var a=n.test(e.nodeName);var i=a&&(e[$](H.sizesAttr)||e[$]("sizes"));var r=i=="auto";if((r||!m)&&a&&(e[$]("src")||e.srcset)&&!e.complete&&!J(e,H.errorClass)&&J(e,H.lazyClass)){return}t=X(e,"lazyunveilread").detail;if(r){re.updateElem(e,true,e.offsetWidth)}e._lazyRace=true;M++;s(e,t,r,i,a)};var r=ie(function(){H.loadMode=3;a()});var o=function(){if(H.loadMode==3){H.loadMode=2}r()};var l=function(){if(m){return}if(f.now()-e<999){I(l,999);return}m=true;H.loadMode=3;a();q("scroll",o,true)};return{_:function(){e=f.now();k.elements=D.getElementsByClassName(H.lazyClass);v=D.getElementsByClassName(H.lazyClass+" "+H.preloadClass);q("scroll",a,true);q("resize",a,true);q("pageshow",function(e){if(e.persisted){var t=D.querySelectorAll("."+H.loadingClass);if(t.length&&t.forEach){U(function(){t.forEach(function(e){if(e.complete){R(e)}})})}}});if(u.MutationObserver){new MutationObserver(a).observe(O,{childList:true,subtree:true,attributes:true})}else{O[P]("DOMNodeInserted",a,true);O[P]("DOMAttrModified",a,true);setInterval(a,999)}q("hashchange",a,true);["focus","mouseover","click","load","transitionend","animationend"].forEach(function(e){D[P](e,a,true)});if(/d$|^c/.test(D.readyState)){l()}else{q("load",l);D[P]("DOMContentLoaded",a);I(l,2e4)}if(k.elements.length){t();ee._lsFlush()}else{a()}},checkElems:a,unveil:R,_aLSL:o}}(),re=function(){var a;var n=te(function(e,t,a,i){var r,n,s;e._lazysizesWidth=i;i+="px";e.setAttribute("sizes",i);if(j.test(t.nodeName||"")){r=t.getElementsByTagName("source");for(n=0,s=r.length;n<s;n++){r[n].setAttribute("sizes",i)}}if(!a.detail.dataAttr){Y(e,a.detail)}});var i=function(e,t,a){var i;var r=e.parentNode;if(r){a=s(e,r,a);i=X(e,"lazybeforesizes",{width:a,dataAttr:!!t});if(!i.defaultPrevented){a=i.detail.width;if(a&&a!==e._lazysizesWidth){n(e,r,i,a)}}}};var e=function(){var e;var t=a.length;if(t){e=0;for(;e<t;e++){i(a[e])}}};var t=ie(e);return{_:function(){a=D.getElementsByClassName(H.autosizesClass);q("resize",t)},checkElems:t,updateElem:i}}(),t=function(){if(!t.i&&D.getElementsByClassName){t.i=true;re._();e._()}};return I(function(){H.init&&t()}),k={cfg:H,autoSizer:re,loader:e,init:t,uP:Y,aC:K,rC:Q,hC:J,fire:X,gW:s,rAF:ee}}(e,e.document,Date);e.lazySizes=t,"object"==typeof module&&module.exports&&(module.exports=t)}("undefined"!=typeof window?window:{});
+</script>
+<script async src='/cdn-cgi/challenge-platform/h/b/scripts/invisible.js'></script></head>
+<body>
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">
+        ;(function() {
+            // Initialize
+            var bLazy = new Blazy();
+        })();
+    </script>
+<div class="wrap">
+<div class="wrap-center wrap-main">
+<center><div id="dle-speedbar">
+<ul itemscope itemtype="http://schema.org/BreadcrumbList" class="speedbar"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://wallpapercrafter.com/" title="HD Desktop Wallpapers"><span itemprop="name">Wallpapers</span></a><meta itemprop="position" content="1" /></li><li class="speedbar_sep">&raquo;</li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://wallpapercrafter.com/desktop-walls/" title="Desktop"><span itemprop="name">Desktop</span></a><meta itemprop="position" content="2" /></li><li class="speedbar_sep">&raquo;</li><li>panels, lattice, light, glare, bright, 4k</li></ul>
+</div></center>
+<header class="header fx-row fx-middle">
+<a href="/" class="logo"><img src="/templates/dark/images/logo.png" alt="" /></a>
+<div class="search-wrap fx-1">
+<form id="quicksearch" method="post">
+<input type="hidden" name="do" value="search" />
+<input type="hidden" name="subaction" value="search" />
+<div class="search-box">
+<input id="story" name="story" placeholder="Enter a search phrase ..." type="text" />
+<button type="submit"><span class="icon ion-md-search"></span></button>
+</div>
+</form>
+</div>
+<div class="btn-menu"><span class="icon ion-md-menu"></span></div>
+<div class="btn-menu2"><span class="icon ion-md-more"></span></div>
+<ul class="hd-menu to-mob">
+<li><a href="/tags/liked/">Most liked</a></li>
+<li><a href="/wallpapers-for-mobile/">Wallpapers for phones</a></li>
+</ul>
+
+<div class="btn-fav icon-left js-login"><span class="icon ion-md-heart-empty"></span><span class="fav-count">0</span></div>
+<div class="btn-login js-login">Login</div>
+<div class="login-box not-logged">
+<form method="post">
+<div class="login-title">Login</div>
+<div class="login-avatar"><span class="icon ion-md-person"></span></div>
+<div class="login-input"><input type="text" name="login_name" id="login_name" placeholder="login" /></div>
+<div class="login-input"><input type="password" name="login_password" id="login_password" placeholder="password" /></div>
+<div class="login-check">
+<label for="login_not_save">
+<input type="checkbox" name="login_not_save" id="login_not_save" value="1" />
+<span>Remember me</span>
+</label>
+</div>
+<div class="login-btn"><button onclick="if (!window.__cfRLUnblockHandlers) return false; submit();" type="submit" title="submit" data-cf-modified-cdc3f2cf7ed05d5861ed847b-="">Submit</button></div>
+<input name="login" type="hidden" id="login" value="submit" />
+<div class="login-btm fx-row">
+<a href="/?do=register" class="log-register">Registration</a>
+<a href="https://wallpapercrafter.com/index.php?do=lostpassword">Password recovery</a>
+</div>
+
+<div class="login-soc-btns">
+</div>
+</form>
+</div>
+
+</header>
+
+<div class="cols fx-row">
+<aside class="col-left">
+<nav class="side-box to-mob">
+<center> <p>CATEGORIES</p></center>
+<ul class="nav">
+<li><a href="https://wallpapercrafter.com/xfsearch/alt/4k/">4k</a> <span>60651</span></li>
+<li><a href="https://wallpapercrafter.com/xfsearch/alt/5k/">5k</a> <span>8520</span></li>
+<li><a href="https://wallpapercrafter.com/xfsearch/alt/6k/">6k</a> <span>111</span></li>
+<li><a href="https://wallpapercrafter.com/xfsearch/alt/8k/">8k</a> <span>2043</span></li>
+<li><a href="https://wallpapercrafter.com/xfsearch/alt/10k/">10k</a> <span>372</span></li>
+<li><a href="https://wallpapercrafter.com/xfsearch/alt/12K/">12K</a> <span>124</span></li>
+<li><a href="https://wallpapercrafter.com/xfsearch/alt/shine/">shine</a> <span>176</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/legs/">legs</a> <span>270</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/baby animals/">baby animals</a> <span>101</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/close-up/">close-up</a> <span>259</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/inscription/">inscription</a> <span>472</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/world/">world</a> <span>432</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/hands/">hands</a> <span>329</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/model/">model</a> <span>2839</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/minimalism/">minimalism</a> <span>3654</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/video game art/">video game art</a> <span>1130</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/sun/">sun</a> <span>975</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/animated movies/">animated movies</a> <span>841</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/chair/">chair</a> <span>103</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/Re:Zero Kara Hajimeru Isekai Seikatsu/">Re:Zero Kara Hajimeru Isekai Seikatsu</a> <span>192</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/God Of War/">God Of War</a> <span>190</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/Red Dead Redemption 2/">Red Dead Redemption 2</a> <span>144</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/fantasy art/">fantasy art</a> <span>3707</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/dark fantasy/">dark fantasy</a> <span>113</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/architecture/">architecture</a> <span>1684</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/long hair/">long hair</a> <span>2398</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/people/">people</a> <span>400</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/ps games/">ps games</a> <span>2263</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/waves/">waves</a> <span>759</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/muzzle/">muzzle</a> <span>337</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/snowy/">snowy</a> <span>212</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/waterfall/">waterfall</a> <span>611</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/animals/">animals</a> <span>3040</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/desi girls/">desi girls</a> <span>542</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/new york/">new york</a> <span>149</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/sneakers/">sneakers</a> <span>106</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/Kratos/">Kratos</a> <span>134</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/lightning/">lightning</a> <span>187</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/jacket/">jacket</a> <span>198</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/vaporwave/">vaporwave</a> <span>288</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/game art/">game art</a> <span>248</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/Venom/">Venom</a> <span>467</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/far view/">far view</a> <span>119</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/lighthouse/">lighthouse</a> <span>197</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/purple/">purple</a> <span>723</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/Battlefield 1/">Battlefield 1</a> <span>122</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/starry sky/">starry sky</a> <span>602</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/bridge/">bridge</a> <span>948</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/necklace/">necklace</a> <span>110</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/rose/">rose</a> <span>422</span></li><li><a href="https://wallpapercrafter.com/xfsearch/alt/mech/">mech</a> <span>135</span></li></ul>
+</nav>
+</aside>
+
+<main class="col-right fx-1 fx-row">
+<div class="main fx-1">
+
+<div class="clearfix">
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">
+        ;(function() {
+            // Initialize
+            var bLazy = new Blazy();
+        })();
+    </script>
+<div id='dle-content'><meta property="og:title" content="wallpapercrafter.com" />
+<meta property="og:description" content="Good wallpapers - wallpapercrafter.com" />
+<meta property="og:image" content="https://wallpapercrafter.com/th800/10119-panels-lattice-light-glare-bright-4k.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://wallpapercrafter.com/10119-panels-lattice-light-glare-bright-4k.html" />
+<article class="full ignore-select">
+<h1 class="ftags"><a href="https://wallpapercrafter.com/xfsearch/alt/panels/">panels</a>, <a href="https://wallpapercrafter.com/xfsearch/alt/lattice/">lattice</a>, <a href="https://wallpapercrafter.com/xfsearch/alt/light/">light</a>, <a href="https://wallpapercrafter.com/xfsearch/alt/glare/">glare</a>, <a href="https://wallpapercrafter.com/xfsearch/alt/bright/">bright</a>, <a href="https://wallpapercrafter.com/xfsearch/alt/4k/">4k</a></h1>
+<div class="fone" style="background: #111 url(/th800/10119-panels-lattice-light-glare-bright-4k.jpg) center center / cover no-repeat; ">
+<div class="fplayer video-box">
+<script async defer src="//assets.pinterest.com/js/pinit.js" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+<div style="position: absolute;">
+<div style="margin-bottom: 5px;"><a data-pin-do="buttonPin" href="https://www.pinterest.com/pin/create/button/?url=https://wallpapercrafter.com/10119-panels-lattice-light-glare-bright-4k.html&media=https://wallpapercrafter.com/th800/10119-panels-lattice-light-glare-bright-4k.jpg&description=panels, lattice, light, glare, bright, 4k"></a></div>
+<div class="fb-share-button" data-href="https://wallpapercrafter.com/10119-panels-lattice-light-glare-bright-4k.html" data-layout="button">
+</div>
+</div>
+
+<center>
+<img oncontextmenu="if (!window.__cfRLUnblockHandlers) return false; alert(&quot;Use Download button for download.&quot;);return false;" style="height:400px;" decoding="async" style="height:200px;" srcset="/th/10119-panels-lattice-light-glare-bright-4k.jpg 480w,
+                     /th800/10119-panels-lattice-light-glare-bright-4k.jpg 800w" sizes="(max-width: 600px) 480px,
+                    800px" src="/desktop/10119-panels-lattice-light-glare-bright-4k.jpg" alt="panels, lattice, light, glare, bright, 4k" data-cf-modified-cdc3f2cf7ed05d5861ed847b-="">
+</center>
+
+
+<div style="width:295px; height:245px; display: none;" id="startdwn">
+<style type="text/css">
+#timer_num {width:70px; height:70px; background: url('https://wallpapercrafter.com/seconds.gif') no-repeat; text-align:center; font-size:36px; color:#666}
+</style>
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">  
+function stdwn() {  
+ var timer_num = 10;
+ document.getElementById('timer_num').innerHTML =  timer_num;
+ var timers = setInterval(function () {
+ timer_num--; 
+ document.getElementById('timer_num').innerHTML =  timer_num;
+ if (timer_num == 0) {
+	document.getElementById('timer_2').style.display = 'block';
+    document.getElementById('timer_1').style.display = 'none';
+	clearInterval(timers);
+	}
+ }, 1000)
+}
+
+ 
+ </script>
+<div>
+<center><table id="timer_1" border="0" cellpadding="2" cellspacing="2"><tbody><tr> <td style="padding:5px;color:#666;">Wait:</td> <td id="timer_num"></td> <td style="padding:5px;color:#666;">sec.</td> </tr></tbody></table></center></div> <div style="display:none" id="timer_2">
+<center><table border="0" cellpadding="2" cellspacing="2"><tbody><tr> <td style="padding:5px;color:#666;">
+<center><a rel="nofollow" href="/dwn.php?f=10119-panels-lattice-light-glare-bright-4k.jpg"><input style="height:70px;" type="submit" name="sbm" value="Download"></a></center>
+</td> </tr></tbody></table></center></div>
+<center style="margin:20px 0 10px;"><a data-pin-do="buttonPin" href="https://www.pinterest.com/pin/create/button/?url=https://wallpapercrafter.com/10119-panels-lattice-light-glare-bright-4k.html&media=https://wallpapercrafter.com/th800/10119-panels-lattice-light-glare-bright-4k.jpg&description=panels, lattice, light, glare, bright, 4k"></a></center>
+<center><div class="fb-share-button" data-href="https://wallpapercrafter.com/10119-panels-lattice-light-glare-bright-4k.html" data-layout="button">
+</div></center>
+</div>
+
+</div>
+</div>
+<div class="ftwo fx-row fx-middle">
+<p class="fx-1">Wallpaper ID: 10119</p>
+<span class="hideupl">Uploader:</span> <img class="avaphoto" src="/uploads/fotos/foto_12592.jpg" alt="LESA" /><span class="authorph"><a onclick="if (!window.__cfRLUnblockHandlers) return false; ShowProfile('LESA', 'https://wallpapercrafter.com/user/LESA/', '0'); return false;" href="https://wallpapercrafter.com/user/LESA/" data-cf-modified-cdc3f2cf7ed05d5861ed847b-="">LESA</a></span>
+<div class="vpm-rate" id="fmeta-rate-10119">
+<div class="rate-counts"></div>
+<div class="rate-plus" id="pluss-10119" onclick="if (!window.__cfRLUnblockHandlers) return false; doRateLD('plus', '10119');" data-cf-modified-cdc3f2cf7ed05d5861ed847b-=""><span class="icon ion-md-thumbs-up"></span></div>
+<div class="rate-minus" id="minuss-10119" onclick="if (!window.__cfRLUnblockHandlers) return false; doRateLD('minus', '10119');" data-cf-modified-cdc3f2cf7ed05d5861ed847b-=""><span class="icon ion-md-thumbs-down"></span></div>
+<div class="rate-data"><span id="ratig-layer-10119" class="ignore-select"><span class="ratingtypeplusminus ignore-select ratingzero">0</span></span><span id="vote-num-id-10119">0</span></div>
+</div>
+</div>
+<div class="fthree fx-row">
+<div class="fctrl">
+<a onclick="if (!window.__cfRLUnblockHandlers) return false; stdwn()" data-fancybox="startdwn" data-src="#startdwn" href="javascript:;" data-cf-modified-cdc3f2cf7ed05d5861ed847b-=""><span class="icon ion-md-download"></span>Download</a>
+</div>
+<div class="fctrl">
+<span class="icon ion-md-calendar"></span>01 May 2020
+</div>
+
+<div class="fctrl">
+<span class="icon ion-md-desktop"></span>3840x2160
+</div>
+<div class="fctrl js-fshare">
+<span class="icon ion-md-code"></span>Code
+</div>
+<div class="fctrl js-login">
+<span class="icon ion-md-heart-empty"></span>Add To Favorite
+</div>
+<div class="fctrl">
+<a href="javascript:AddComplaint('10119', 'news')"><span class="icon ion-md-flag"></span>Complaint</a>
+</div>
+</div>
+<div class="ffour">
+<center><div style="padding-top: 20px; padding-bottom:20px;"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9149369225344758" crossorigin="anonymous" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-9149369225344758" data-ad-slot="7499375836"></ins>
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></center>
+<div style=""><b>Source</b>: &nbsp;<a rel="nofollow" href="https://unsplash.com/@kowalikus">WEB-LINK</a></div>
+<div class="fdesc full-text clearfix">
+<div class="resollinks">
+<script language="JavaScript" type="cdc3f2cf7ed05d5861ed847b-text/javascript">
+function SubmitForm(image, sizer) {
+ document.form1.image.value = image;
+ document.form1.sizer.value = sizer;
+ document.form1.submit();
+}
+</script>
+<form name="form1" action="/walldown.php" method="post">
+<input type="hidden" name="image">
+<input type="hidden" name="sizer">
+<input type="hidden" id="recaptchaResponse2" name="recaptchaResponse2" />
+</form>
+
+<br><center style="text-decoration: none; font-size: 18px; font-weight: 600;">Auto-resize</center>
+<br>
+<p><span style="text-decoration: none; font-size: 18px; font-weight: 600;">Popular:</span>
+<a rel="nofollow" href="javascript:SubmitForm('10119-panels-lattice-light-glare-bright-4k.jpg', '1024x768');">1024x768</a> <a rel="nofollow" href="javascript:SubmitForm('10119-panels-lattice-light-glare-bright-4k.jpg', '1280x720');">1280x720</a> <a rel="nofollow" href="javascript:SubmitForm('10119-panels-lattice-light-glare-bright-4k.jpg', '1280x800');">1280x800</a> <a rel="nofollow" href="javascript:SubmitForm('10119-panels-lattice-light-glare-bright-4k.jpg', '1366x768');">1366x768</a> <a rel="nofollow" href="javascript:SubmitForm('10119-panels-lattice-light-glare-bright-4k.jpg', '1360x768');">1360x768</a> <a rel="nofollow" href="javascript:SubmitForm('10119-panels-lattice-light-glare-bright-4k.jpg', '1600x900');">1600x900</a> <a rel="nofollow" href="javascript:SubmitForm('10119-panels-lattice-light-glare-bright-4k.jpg', '1920x1080');">1680x1050</a> <a rel="nofollow" href="javascript:SubmitForm('10119-panels-lattice-light-glare-bright-4k.jpg', '1920x1080');">1920x1080</a> <a rel="nofollow" href="javascript:SubmitForm('10119-panels-lattice-light-glare-bright-4k.jpg', '1920x1200');">1920x1200</a></p><br>
+</div>
+</div>
+<div style="padding-top:20px;padding-bottom:20px;"><center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9149369225344758" crossorigin="anonymous" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-9149369225344758" data-ad-slot="1946080857"></ins>
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center></div>
+<form method="post" name="dle-comments-form" id="dle-comments-form">
+<div class="add-comms add-comm-form" id="add-comms">
+<div class="ac-inputs fx-row">
+<input type="text" maxlength="35" name="name" id="name" placeholder="Name" />
+<input type="text" maxlength="35" name="mail" id="mail" placeholder="E-mail (optional)" />
+</div>
+<div class="ac-textarea"><div class="bb-editor">
+<textarea name="comments" id="comments" cols="70" rows="10"></textarea>
+</div></div>
+<div class="ac-protect">
+<div class="form-item clearfix imp">
+<label>Enter the code from the image:</label>
+<div class="form-secur">
+<input type="text" name="sec_code" id="sec_code" placeholder="Enter the code from the image" maxlength="45" required /><a onclick="if (!window.__cfRLUnblockHandlers) return false; reload(); return false;" title="reload, if the code cannot be seen" href="#" data-cf-modified-cdc3f2cf7ed05d5861ed847b-=""><span id="dle-captcha"><img src="/engine/modules/antibot/antibot.php" alt="reload, if the code cannot be seen" width="160" height="80"></span></a>
+</div>
+</div>
+</div>
+<div class="ac-submit">
+<button name="submit" type="submit">Submit</button>
+</div>
+</div>
+
+<input type="hidden" name="subaction" value="addcomment">
+<input type="hidden" name="post_id" id="post_id" value="10119"><input type="hidden" name="user_hash" value="9961e6976eb1b493768aac5d583bf30fe1335601"></form>
+</div>
+<div class="ffive fcomms" id="full-comms">
+<div id="dle-ajax-comments"></div>
+
+</div>
+<div class="fshare" id="fshare" title="Share">
+<div class="fshare-capt">HTML link</div>
+<textarea onclick="if (!window.__cfRLUnblockHandlers) return false; this.select()" data-cf-modified-cdc3f2cf7ed05d5861ed847b-=""><a href='https://wallpapercrafter.com/10119-panels-lattice-light-glare-bright-4k.html'>Wallpaper ID: #10119</a></textarea>
+<div class="fshare-capt">BB-code for forums</div>
+<textarea onclick="if (!window.__cfRLUnblockHandlers) return false; this.select()" data-cf-modified-cdc3f2cf7ed05d5861ed847b-="">[URL=https://wallpapercrafter.com/10119-panels-lattice-light-glare-bright-4k.html][IMG]https://wallpapercrafter.com/th800/10119-panels-lattice-light-glare-bright-4k.jpg[/IMG][/URL]</textarea>
+<div class="fshare-capt">HTML-code for site (image)</div>
+<textarea onclick="if (!window.__cfRLUnblockHandlers) return false; this.select()" data-cf-modified-cdc3f2cf7ed05d5861ed847b-=""><img src='https://wallpapercrafter.com/th800/10119-panels-lattice-light-glare-bright-4k.jpg'/></textarea>
+</div>
+<div class="sect fbtm">
+<div class="sect-header">
+<div class="sect-title">Related wallpapers</div>
+</div>
+<div class="sect-content sect-items clearfix">
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="surface, shape, light, glare, sky, bright, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/29361-surface-shape-light-glare-sky-bright-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/29361-surface-shape-light-glare-sky-bright-4k.jpg 480w,
+                     /th/29361-surface-shape-light-glare-sky-bright-4k.jpg 800w" data-sizes="auto" data-src="/desktop/29361-surface-shape-light-glare-sky-bright-4k.jpg" itemprop="contentUrl" alt="surface, shape, light, glare, sky, bright, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">surface, shape, light, glare, sky, bright, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="lattice, glare, light, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/23249-lattice-glare-light-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/23249-lattice-glare-light-4k.jpg 480w,
+                     /th/23249-lattice-glare-light-4k.jpg 800w" data-sizes="auto" data-src="/desktop/23249-lattice-glare-light-4k.jpg" itemprop="contentUrl" alt="lattice, glare, light, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">lattice, glare, light, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="glare, circles, light, bright, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/19844-glare-circles-light-bright-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/19844-glare-circles-light-bright-4k.jpg 480w,
+                     /th/19844-glare-circles-light-bright-4k.jpg 800w" data-sizes="auto" data-src="/desktop/19844-glare-circles-light-bright-4k.jpg" itemprop="contentUrl" alt="glare, circles, light, bright, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">glare, circles, light, bright, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="lattice, fence, blur, glare, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/16525-lattice-fence-blur-glare-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/16525-lattice-fence-blur-glare-4k.jpg 480w,
+                     /th/16525-lattice-fence-blur-glare-4k.jpg 800w" data-sizes="auto" data-src="/desktop/16525-lattice-fence-blur-glare-4k.jpg" itemprop="contentUrl" alt="lattice, fence, blur, glare, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">lattice, fence, blur, glare, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="samurai, jungle, light, glare, bright, green, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/15882-samurai-jungle-light-glare-bright-green-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/15882-samurai-jungle-light-glare-bright-green-4k.jpg 480w,
+                     /th/15882-samurai-jungle-light-glare-bright-green-4k.jpg 800w" data-sizes="auto" data-src="/desktop/15882-samurai-jungle-light-glare-bright-green-4k.jpg" itemprop="contentUrl" alt="samurai, jungle, light, glare, bright, green, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">samurai, jungle, light, glare, bright, green, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="optical fiber, light, bright, glare, bokeh, blur, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/11651-optical-fiber-light-bright-glare-bokeh-blur-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/11651-optical-fiber-light-bright-glare-bokeh-blur-4k.jpg 480w,
+                     /th/11651-optical-fiber-light-bright-glare-bokeh-blur-4k.jpg 800w" data-sizes="auto" data-src="/desktop/11651-optical-fiber-light-bright-glare-bokeh-blur-4k.jpg" itemprop="contentUrl" alt="optical fiber, light, bright, glare, bokeh, blur, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">optical fiber, light, bright, glare, bokeh, blur, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="fractal, circles, glow, light, bright, glare, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/7700-fractal-circles-glow-light-bright-glare-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/7700-fractal-circles-glow-light-bright-glare-4k.jpg 480w,
+                     /th/7700-fractal-circles-glow-light-bright-glare-4k.jpg 800w" data-sizes="auto" data-src="/desktop/7700-fractal-circles-glow-light-bright-glare-4k.jpg" itemprop="contentUrl" alt="fractal, circles, glow, light, bright, glare, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">fractal, circles, glow, light, bright, glare, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="nebula, glare, light, bright, cloud, abstraction, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/5785-nebula-glare-light-bright-cloud-abstraction-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/5785-nebula-glare-light-bright-cloud-abstraction-4k.jpg 480w,
+                     /th/5785-nebula-glare-light-bright-cloud-abstraction-4k.jpg 800w" data-sizes="auto" data-src="/desktop/5785-nebula-glare-light-bright-cloud-abstraction-4k.jpg" itemprop="contentUrl" alt="nebula, glare, light, bright, cloud, abstraction, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">nebula, glare, light, bright, cloud, abstraction, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="light, rays, glare, bright, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/4558-light-rays-glare-bright-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/4558-light-rays-glare-bright-4k.jpg 480w,
+                     /th/4558-light-rays-glare-bright-4k.jpg 800w" data-sizes="auto" data-src="/desktop/4558-light-rays-glare-bright-4k.jpg" itemprop="contentUrl" alt="light, rays, glare, bright, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">light, rays, glare, bright, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="panels, facade, stripes, texture, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/3741-panels-facade-stripes-texture-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/3741-panels-facade-stripes-texture-4k.jpg 480w,
+                     /th/3741-panels-facade-stripes-texture-4k.jpg 800w" data-sizes="auto" data-src="/desktop/3741-panels-facade-stripes-texture-4k.jpg" itemprop="contentUrl" alt="panels, facade, stripes, texture, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">panels, facade, stripes, texture, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="strip, wood, panels, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/2763-strip-wood-panels-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/2763-strip-wood-panels-4k.jpg 480w,
+                     /th/2763-strip-wood-panels-4k.jpg 800w" data-sizes="auto" data-src="/desktop/2763-strip-wood-panels-4k.jpg" itemprop="contentUrl" alt="strip, wood, panels, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">strip, wood, panels, 4k</span>
+</div>
+</a>
+</div>
+<div itemscope itemtype="https://schema.org/ImageObject" class="th-item">
+<meta itemprop="description" content="stripes, panels, purple, surface, 4k">
+<a class="th-in" href="https://wallpapercrafter.com/1117-stripes-panels-purple-surface-4k.html">
+<div class="th-img img-resp">
+<img decoding="async" class="lazyload" data-srcset="/th/1117-stripes-panels-purple-surface-4k.jpg 480w,
+                     /th/1117-stripes-panels-purple-surface-4k.jpg 800w" data-sizes="auto" data-src="/desktop/1117-stripes-panels-purple-surface-4k.jpg" itemprop="contentUrl" alt="stripes, panels, purple, surface, 4k">
+</div>
+<div class="th-desc">
+
+<span style="">stripes, panels, purple, surface, 4k</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="col-right-in">
+<div class="side-box">
+<div class="side-bt">Ad</div>
+<div class="side-bc">
+<center><div style="padding-top: 20px; padding-bottom:20px;"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9149369225344758" crossorigin="anonymous" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-9149369225344758" data-ad-slot="3272154056"></ins>
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></center>
+</div>
+</div>
+</div>
+</main>
+
+</div>
+
+<footer class="footer">
+<span>0+</span>
+<div class="ft-one"></div>
+<div class="ft-two">2016-<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">document.write(new Date().getFullYear());</script> wallpapercrafter.com <br> Contact: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9df4f3fbf2ddeafcf1f1edfcedf8effeeffcfbe9f8efb3fef2f0">[email&#160;protected]</a></div>
+<div class="ft-counter">
+<a href="https://www.youtube.com/channel/UCPuBUYl-998IX9ADx91v9eQ/">
+<svg enable-background="new 0 0 512 512" height="40px" id="Слой_1" version="1.1" viewBox="0 0 512 512" width="40px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="youtube"><g><path d="M511.994,256.008c0,141.387-114.607,255.988-255.996,255.988c-141.393,0-256.004-114.609-255.992-255.988    C-0.006,114.611,114.605,0.004,255.998,0.004C397.387,0.004,511.994,114.619,511.994,256.008z" fill="#FA2216" /><path d="M322.794,149.539l-14.687-14.68l-4.789,34.188l-1.188,1.188l-29.586-29.594l-1.172,1.172l-36.977-36.975    l-10.444,31.131l-31.398-31.389l2.492,37.764l20.055,20.047l-19.305,57.578l28.397,28.391l-8.976,8.998l-69.968-1.172    l-10.391,144.936L245.467,511.73c3.492,0.141,7,0.266,10.531,0.266c124.67,0,228.488-89.141,251.285-207.154L337.364,134.93    L322.794,149.539z" opacity="0.15" /></g><g id="You_tube_2_"><polygon fill="#F4F6F9" points="195.796,219.969 213.515,219.969 213.515,173.164 234.131,104.572 216.132,104.58     204.772,150.703 192.554,104.58 174.703,104.572 195.796,173.164   " /><path d="M303.365,221.203c4.758,0,11.375-2.5,18.187-10.625v9.391h15.742v-85.125h-15.742v64.602    c-1.913,2.422-6.187,6.391-9.249,6.391c-3.359,0-4.195-2.32-4.195-5.742v-65.234h-15.734V206    C292.373,214.391,294.928,221.203,303.365,221.203z" fill="#F4F6F9" /><path d="M233.326,198.742c0,14.992,7.797,22.82,23.07,22.82c12.656,0,22.617-8.523,22.617-22.828v-41.719    c0-13.313-9.867-22.875-22.617-22.867c-13.867,0-23.07,9.211-23.07,22.867V198.742z M249.529,158.43    c0-4.664,2.133-8.133,6.547-8.133c4.828,0,6.898,3.367,6.898,8.125l0.008,39.594c0,4.641-2.359,8.047-6.586,8.047    c-4.352,0-6.867-3.563-6.867-8.047V158.43z" fill="#F4F6F9" /><path d="M337.755,313.998c-5.555,0-6.695,3.93-6.695,9.484v8.219h13.242v-8.219    C344.294,318.021,343.146,313.998,337.755,313.998z" fill="#F4F6F9" /><path d="M279.482,314.498c-1.031,0.531-2.078,1.352-3.086,2.484v50.5c1.219,1.336,2.398,2.281,3.547,2.852    c2.438,1.242,6.008,1.352,7.664-0.836c0.867-1.148,1.305-2.984,1.305-5.594v-41.844c0-2.727-0.539-4.813-1.602-6.227    C285.498,313.428,282.107,313.154,279.482,314.498z" fill="#F4F6F9" /><path d="M360.668,244.242l-209.348-0.008c-12.852,0-23.266,10.469-23.258,23.396l-0.008,116.959    c0,12.93,10.414,23.391,23.266,23.391h209.348c12.852,0,23.273-10.461,23.273-23.391V267.631    C383.941,254.703,373.52,244.242,360.668,244.242z M186.609,382.904h-16.883v-93.922h-17.453v-15.961h51.796v15.961h-17.46    V382.904z M246.646,382.904h-14.992v-8.938c-2.758,3.313-5.641,5.813-8.608,7.531c-8.094,4.654-19.18,4.561-19.18-11.883v-67.742    h14.984v62.109c0,3.273,0.781,5.484,3.984,5.484c2.929,0,6.991-3.781,8.819-6.078v-61.516h14.992V382.904z M304.326,366.115    c0,10.055-3.727,17.836-13.703,17.836c-5.492,0-10.055-2.023-14.227-7.266v6.219h-15.133V273.021h15.133v35.383    c3.375-4.141,7.977-7.57,13.328-7.57c10.977,0,14.602,9.328,14.602,20.32V366.115z M359.723,344.279H331.06v15.297    c0,6.078,0.516,11.328,6.547,11.328c6.32,0,6.688-4.273,6.688-11.328v-5.633l15.429,0.008v6.078    c0,15.625-6.672,25.061-22.46,25.061c-14.313,0-21.624-10.459-21.624-25.045v-36.391c0-14.078,9.249-23.836,22.765-23.836    c14.382,0,21.319,9.18,21.319,23.836l0,0V344.279z" fill="#F4F6F9" /></g></g></svg></a>
+<a href="https://www.pinterest.com/wallpapercrafter/">
+<svg width='40' height='40' version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 112.198 112.198" style="enable-background:new 0 0 112.198 112.198;" xml:space="preserve">
+<g>
+<circle style="fill:#CB2027;" cx="56.099" cy="56.1" r="56.098" />
+<g>
+<path style="fill:#F1F2F2;" d="M60.627,75.122c-4.241-0.328-6.023-2.431-9.349-4.45c-1.828,9.591-4.062,18.785-10.679,23.588
+			c-2.045-14.496,2.998-25.384,5.34-36.941c-3.992-6.72,0.48-20.246,8.9-16.913c10.363,4.098-8.972,24.987,4.008,27.596
+			c13.551,2.724,19.083-23.513,10.679-32.047c-12.142-12.321-35.343-0.28-32.49,17.358c0.695,4.312,5.151,5.621,1.78,11.571
+			c-7.771-1.721-10.089-7.85-9.791-16.021c0.481-13.375,12.018-22.74,23.59-24.036c14.635-1.638,28.371,5.374,30.267,19.14
+			C85.015,59.504,76.275,76.33,60.627,75.122L60.627,75.122z" />
+</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg></a>
+
+</div>
+</footer>
+
+</div>
+
+</div>
+
+<link href="/engine/classes/min/index.php?charset=utf-8&amp;f=engine/editor/css/default.css&amp;v=26" rel="stylesheet" type="text/css">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/engine/classes/min/index.php?charset=utf-8&amp;g=general&amp;v=26" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+<script src="/engine/classes/min/index.php?charset=utf-8&amp;f=engine/classes/js/jqueryui.js,engine/classes/js/dle_js.js&amp;v=26" defer type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+<script src="/templates/dark/js/libs.js" type="cdc3f2cf7ed05d5861ed847b-text/javascript"></script>
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '9961e6976eb1b493768aac5d583bf30fe1335601';
+var dle_group      = 5;
+var dle_skin       = 'dark';
+var dle_wysiwyg    = '-1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = ["Yes", "No", "Enter", "Cancel", "Save", "Delete", "Loading. Please, wait..."];
+var menu_short     = 'Quick edit';
+var menu_full      = 'Full edit';
+var menu_profile   = 'View profile';
+var menu_send      = 'Send message';
+var menu_uedit     = 'Admin Center';
+var dle_info       = 'Information';
+var dle_confirm    = 'Confirm';
+var dle_prompt     = 'Enter the information';
+var dle_req_field  = 'Please fill in all the required fields';
+var dle_del_agree  = 'Are you sure you want to delete it? This action cannot be undone';
+var dle_spam_agree = 'Are you sure you want to mark the user as a spammer? This will remove all his comments';
+var dle_complaint  = 'Enter the text of your complaint to the Administration:';
+var dle_big_text   = 'Highlighted section of text is too large.';
+var dle_orfo_title = 'Enter a comment to the detected error on the page for Administration ';
+var dle_p_send     = 'Send';
+var dle_p_send_ok  = 'Notification has been sent successfully ';
+var dle_save_ok    = 'Changes are saved successfully. Refresh the page?';
+var dle_reply_title= 'Reply to the comment';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Delete article';
+var dle_sub_agree  = 'Do you really want to subscribe to this article’s comments?';
+var dle_captcha_type  = '0';
+var allow_dle_delete_news   = false;
+
+jQuery(function($){
+$('#dle-comments-form').submit(function() {
+	doAddComments();
+	return false;
+});
+});
+//-->
+</script>
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="cdc3f2cf7ed05d5861ed847b-text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66257806, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66257806" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="cdc3f2cf7ed05d5861ed847b-|49" defer=""></script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'6d390d677fde5646',m:'aGvKpAfZbWtvSKPn3qFBhiMcbskL4hRQhSlzJj.Ropw-1643192884-0-AU5kPDmjggWmN//3qm5tXq/hG/JZZn7WATcZMcwsj80rXgGqxDs7d2LfRh3IZh2Rszw05n4Vzp03+BmIUNmUwczDQaKSzpVeDf2mvFGEI7SM2OeTQ8QKFINbiqTEMakoexKWL298NyQxmKrytjaMsm3/371P3cqL0KwhB/SKkqq91JYxholMg9QLE6u8HSIJuQ==',s:[0x6bb17cb14e,0x2c89cecd18],u:'/cdn-cgi/challenge-platform/h/b'}})();</script></body>
+</html>
+
+
+
+
+
+
